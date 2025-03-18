@@ -48,8 +48,8 @@ The goal of this project is to:
 ## Results & Insights
 - Identified strong correlations between cholesterol, heart rate, and heart disease.
 - Highlighted the importance of early detection of abnormal ECG readings.
-- ![histogram](histogram.png)
+- ![histogram](Histogram.png)
 - ![scatter plot](scatter_plot.png)
 - ![bar chart](Bar_chart.png)
 - ![3D chart](3D_chart.png)
-- ![pie chart](pie_chart.png)
+- ![pie chart](Pie_chart.png)
